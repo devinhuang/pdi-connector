@@ -1,4 +1,4 @@
-OpenERP Pentaho Data Integration Connector
+Odoo Pentaho Data Integration Connector
 ==========================================
 
 Remote Pentaho Data Integration from OpenERP to launch tasks or transformations
